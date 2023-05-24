@@ -1,11 +1,11 @@
 {
 	"SDKVersion": 2,
-	"Author": "Elgato Systems",
+	"Author": "Miguel22247",
 	"CodePath": "app.html",
-	"Description": "Example description",
-	"Name": "Stream Deck Template",
+	"Description": "Weather Plugin for Stream Deck",
+	"Name": "Weather Plugin",
 	"Icon": "actions/template/assets/action",
-	"URL": "https://www.elgato.com/en/gaming/stream-deck",
+	"URL": "https://miguel22247.github.io/",
 	"Version": "1.0.2",
 	"Software": {
 		"MinimumVersion": "5.0"
@@ -20,7 +20,7 @@
 			"MinimumVersion": "10"
 		}
 	],
-	"Category": "Template Plugin",
+	"Category": "Weather Plugin",
 	"CategoryIcon": "actions/template/assets/actionimage",
 	"Actions": [
 		{
